@@ -1,4 +1,4 @@
-# 🚚 SwiftShift – Logistics Platform for Packers & Movers
+# SwiftShift – Logistics Platform for Packers & Movers
 
 **SwiftShift** is a web-based logistics solution tailored for **Packers and Movers businesses**.  
 It simplifies customer interaction, enhances online visibility, and digitizes traditional relocation services — all in one streamlined platform.
@@ -8,7 +8,7 @@ It simplifies customer interaction, enhances online visibility, and digitizes tr
 ---
 
 
-## 📌 Features (Planned & In Progress)
+## Features (Planned & In Progress)
 
 - ✅ Responsive homepage with service highlights
 - ✅ About Us page for brand story and trust-building
@@ -20,7 +20,7 @@ It simplifies customer interaction, enhances online visibility, and digitizes tr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer       | Technology       |
 |-------------|------------------|
