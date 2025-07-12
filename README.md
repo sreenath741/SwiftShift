@@ -30,12 +30,3 @@ It simplifies customer interaction, enhances online visibility, and digitizes tr
 | Others      | Django Admin, Django Templates |
 
 ---
-
-
-## 🚀 Getting Started (Local Setup)
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/swiftshift.git
-cd swiftshift
